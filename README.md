@@ -2,9 +2,9 @@
 
 ### Network Support Engineer | Aspiring Backend Developer
 
-I'm a **L1 Technical Network Support Engineer at Vianet Communication Ltd.**, with experience in technical troubleshooting, network support, and customer communication.
+I'm a **L1 Technical Network Support Engineer at Vianet Communication Ltd.** with experience in technical troubleshooting, network support, customer communication, and connectivity issue analysis.
 
-I'm also currently pursuing a **BCA at Himalaya College of Engineering** and developing my skills in **Backend Development, Node.js, Express.js, and MongoDB**.
+I'm currently pursuing a **Bachelor of Computer Applications (BCA)** at Himalaya College of Engineering and developing my skills in **JavaScript, Node.js, Express.js, MongoDB, and REST APIs**.
 
 I enjoy solving technical problems, learning new technologies, and building practical projects.
 
@@ -12,13 +12,14 @@ I enjoy solving technical problems, learning new technologies, and building prac
 
 ## 👨‍💻 About Me
 
-* 💼 **L1 Technical Network Support Engineer** at Vianet Communication Ltd.
-* 🎓 Currently pursuing **BCA** at Himalaya College of Engineering
-* 🌱 Currently learning **Node.js, Express.js & MongoDB**
-* 🔧 Experienced in **Technical Troubleshooting & Network Support**
-* 💡 Interested in **Backend Development & REST APIs**
-* 📍 Based in **Lalitpur, Nepal**
-* 🎯 Goal: Grow as a **Backend Developer** while strengthening my networking and software development skills
+- 💼 **L1 Technical Network Support Engineer** at Vianet Communication Ltd.
+- 🎓 **BCA Student** at Himalaya College of Engineering
+- 🌱 Currently learning **Node.js, Express.js & MongoDB**
+- 🌐 Interested in **Network Engineering & Backend Development**
+- 🔧 Experienced in **Technical Troubleshooting & Network Support**
+- 📍 Based in **Lalitpur, Nepal**
+- 📸 Interested in **Photography & Videography**
+- 🎯 Goal: Grow as a **Backend Developer** while strengthening my networking skills
 
 ---
 
@@ -26,40 +27,65 @@ I enjoy solving technical problems, learning new technologies, and building prac
 
 ### Vianet Communication Ltd. — Lalitpur
 
-**L1 Technical Network Support Engineer**
+**L1 Technical Network Support Engineer**  
 *September 2024 – Present*
 
-* Troubleshooting technical and network-related issues
-* Providing first-level technical support
-* Following up on reported technical issues
-* Analyzing problems and assisting with appropriate solutions
-* Communicating with customers and technical teams
-* Maintaining a professional approach while resolving technical problems
+- Troubleshooting technical and network-related issues
+- Providing first-level technical support
+- Handling customer technical queries and connectivity problems
+- Performing internet troubleshooting and fault diagnosis
+- Following up on reported technical issues
+- Analyzing website and gaming connectivity issues
+- Handling tickets, documentation, and escalation
+- Coordinating with technical teams for issue resolution
+- Communicating technical information clearly to customers
+
+### 🔍 Technical Troubleshooting
+
+- **Wireshark** for basic packet analysis
+- **Ping** for connectivity testing
+- **Traceroute** for path analysis
+- **NSLookup** for DNS troubleshooting
+- Website and online gaming trace analysis
+- Basic network fault diagnosis
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Backend
+### 💻 Programming & Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### 🌐 Networking
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-Networking-blue?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-Networking-blue?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-blue?style=for-the-badge)
 
-### Other Skills
+- TCP/IP
+- DNS
+- DHCP
+- LAN/WAN
+- Internet Troubleshooting
+- Network Fault Diagnosis
+- Connectivity Analysis
 
-* 🌐 Network Troubleshooting
-* 🔧 Technical Support
-* 💬 Communication
-* 🤝 Team Collaboration
-* 📸 Photography
+### 🔍 Network Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+`Ping` • `Traceroute` • `NSLookup` • `Wireshark`
+
+### 🧰 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -77,8 +103,6 @@ MongoDB
 REST APIs
      ↓
 Backend Development
-```
-
 ---
 
 ## 🎓 Education
